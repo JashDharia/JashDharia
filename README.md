@@ -13,4 +13,4 @@
 
 🔗 Feel free to check out my work and connect with me:
 - [LinkedIn](https://www.linkedin.com/in/jash-dharia/)
-- [Portfolio](https://portfolio-git-main-jashdharias-projects.vercel.app/)
+
